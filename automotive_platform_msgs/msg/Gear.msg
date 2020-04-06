@@ -1,6 +1,8 @@
 # Transmission Gear Value
 # Provides common definitions for commanded and reported gear
 
+std_msgs/Header header
+
 uint8 NONE=0
 uint8 PARK=1
 uint8 REVERSE=2

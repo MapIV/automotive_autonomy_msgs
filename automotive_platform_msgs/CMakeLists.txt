@@ -17,6 +17,7 @@ set(MSG_FILES
   "GearFeedback.msg"
   "Gear.msg"
   "HillStartAssist.msg"
+  "LightLever.msg"
   "SpeedPedals.msg"
   "SpeedMode.msg"
   "Speed.msg"

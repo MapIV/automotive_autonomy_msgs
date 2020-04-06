@@ -10,4 +10,6 @@ uint8 LEFT=1
 uint8 RIGHT=2
 uint8 turn_signal       # Desired turn signal on
 
+bool hazard_on		# 0: hazard off, 1: hazard on
+
 
